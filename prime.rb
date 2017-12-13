@@ -1,5 +1,6 @@
 # Add  code here!
+requie 'prime'
 
-def prime?()
-  
+def prime?(int)
+
 end
