@@ -1,5 +1,5 @@
 # Add  code here!
-requie 'prime'
+require 'prime'
 
 def prime?(int)
 
